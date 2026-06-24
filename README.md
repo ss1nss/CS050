@@ -1,1 +1,1 @@
-Python projects completed during Harvard CS50P — covers functions, file I/O, unit testing, and API integration
+Python projects completed during Harvard CS50P — covers object-oriented programming, regular expression, unit testing, and API integration
